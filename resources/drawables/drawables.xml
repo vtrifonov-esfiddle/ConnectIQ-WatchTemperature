@@ -1,0 +1,9 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <drawable-list id="degreeCelsius">
+    	<bitmap id="degreeCelsiusImage" x="200" y="105" filename="degreeCelsius.png" />
+    </drawable-list>
+    <drawable-list id="termometer">
+    	<bitmap id="termometerImage" x="90" y="15" filename="termometer.png" />
+    </drawable-list>
+</drawables>

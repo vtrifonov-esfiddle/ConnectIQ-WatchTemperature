@@ -1,0 +1,5 @@
+<layout id="MainLayout">
+	<drawable id="termometer" />
+    <label id="output" x="center" y="center" text="" font="Gfx.FONT_NUMBER_HOT" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <drawable id="degreeCelsius" />
+</layout>
